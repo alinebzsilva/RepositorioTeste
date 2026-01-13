@@ -1,2 +1,2 @@
 # RepositorioTeste
-Primeiro repositorio - curso do Gustavo Guanabara
+Primeiro repositorio - curso Youtube do Gustavo Guanabara
